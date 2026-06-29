@@ -2,3 +2,6 @@ fastapi
 uvicorn[standard]
 boto3
 pydantic
+python
+html
+python libraries
